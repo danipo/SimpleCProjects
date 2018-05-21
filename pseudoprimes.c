@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-printf("Here are Arup pseudoprimes between 1 and 10000:\n ");
+printf("Here are the pseudoprimes between 1 and 10000:\n ");
 int i,j;
 for (i=1; i<=10000; i++) {
     //check if i is prime or not
